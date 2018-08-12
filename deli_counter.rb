@@ -10,5 +10,5 @@ def line(katz_deli)
       sentence += "#{index + 1}. #{name}"
     end
   end
-
+  puts sentence
 end
