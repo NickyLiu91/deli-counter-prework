@@ -1,6 +1,6 @@
 # Write your code here.
 katz_deli = []
-def line
+def line(katz_deli)
   sentence = "The line is current:"
   if katz_deli.length == 0
     return "The line is currently empty."
